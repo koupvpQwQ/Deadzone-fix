@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "deadzoneinject", "deadzoneinject\deadzoneinject.vcxproj", "{F184540A-3404-4A45-B38E-35E97E89C49D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F184540A-3404-4A45-B38E-35E97E89C49D}.Debug|x64.ActiveCfg = Debug|x64
+		{F184540A-3404-4A45-B38E-35E97E89C49D}.Debug|x64.Build.0 = Debug|x64
+		{F184540A-3404-4A45-B38E-35E97E89C49D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F184540A-3404-4A45-B38E-35E97E89C49D}.Debug|x86.Build.0 = Debug|Win32
+		{F184540A-3404-4A45-B38E-35E97E89C49D}.Release|x64.ActiveCfg = Release|x64
+		{F184540A-3404-4A45-B38E-35E97E89C49D}.Release|x64.Build.0 = Release|x64
+		{F184540A-3404-4A45-B38E-35E97E89C49D}.Release|x86.ActiveCfg = Release|Win32
+		{F184540A-3404-4A45-B38E-35E97E89C49D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C579C6A8-6A46-4D68-BF94-4DF3854C4281}
+	EndGlobalSection
+EndGlobal
